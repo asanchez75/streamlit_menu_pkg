@@ -221,7 +221,7 @@ setuptools.setup(
         "six==1.16.0",
         "smmap==5.0.0",
         "SQLAlchemy==1.4.41",
-        "streamlit==1.15.1",
+        "streamlit==1.30",
         "toml==0.10.2",
         "toolz==0.12.0",
         "tornado==6.2",
